@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513164242253",
+    "project_id": "food-app-b3f52",
+    "storage_bucket": "food-app-b3f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513164242253:android:9d025fa0244899cadd9b04",
+        "android_client_info": {
+          "package_name": "com.charanpreet.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8ZDKtfidgWuHsCZjQy1I8E3HuD5D0wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
